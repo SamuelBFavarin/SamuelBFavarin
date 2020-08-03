@@ -1,5 +1,5 @@
 # Oi, eu sou o Samuel e esse é meu Portifólio! :books:
-Me chamo Samuel Favarin, sou formado em Ciência da Computação e atuamente trabalho como Engenheiro de Software em uma Startup sediada em Florianópolis. Comecei a programar quando tinha 15 anos, percorrendo uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já trabalhei e estudei com tecnologias como Delphi, C++, Java, Javacript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud. Ufaa, bastante coisa.
+Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem, sediada em Florianópolis. Comecei a programar quando tinha 15 anos, percorrendo uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javacript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud. Ufaa, bastante coisa.
 
 ## Redes Sociais :raising_hand:
 
