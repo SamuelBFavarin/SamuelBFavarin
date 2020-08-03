@@ -42,7 +42,7 @@ Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itaja�
 Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
 
 ### Ministrante das Conecta Talks
-Ministrei duas talks internas da Conecta Nuvem, a primeira foi uma à inteligência artificial e a segunda uma introdução à lógica de programação
+Ministrei duas talks internas da Conecta Nuvem, a primeira foi uma à inteligência artificial e a segunda uma introdução à lógica de programação.
 
 ## Livros que recomendo :book:
 
