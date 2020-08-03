@@ -5,7 +5,7 @@ Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente tr
 
  - Veja meu currículo e se conecta comigo no [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/) para aumentarmos nossa rede de contato.
  - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources.
- - Podemos trocar uma idéia via email, pode enviar para favarin.dev@gmail.com
+ - Podemos trocar uma idwia via email, pode enviar para favarin.dev@gmail.com
 
 ## Projetos que trabalhei :wrench:
 
