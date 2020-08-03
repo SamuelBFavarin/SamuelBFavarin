@@ -5,7 +5,7 @@ Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente tr
 
  - Veja meu currículo e se conecta comigo no [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/) para aumentarmos nossa rede de contato.
  - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources.
- - Podemos trocar uma idwia via email, pode enviar para favarin.dev@gmail.com
+ - Podemos trocar uma ideia via email, pode enviar para favarin.dev@gmail.com
 
 ## Projetos que trabalhei :wrench:
 
@@ -42,7 +42,7 @@ Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itaja�
 Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
 
 ### Ministrante das Conecta Talks
-Ministrei duas talks internas da Conecta Nuvem, a primeira foi uma à inteligência artificial e a segunda uma introdução à lógica de programação.
+Ministrei duas talks internas da Conecta Nuvem, a primeira foi "inteligência artificial e suas aplicações" e a segunda "uma introdução à lógica de programação".
 
 ## Livros que recomendo :book:
 
