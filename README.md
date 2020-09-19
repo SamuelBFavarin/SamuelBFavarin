@@ -37,7 +37,6 @@ Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e a
 
 Veja todos os projetos Open Source que desenvolvi [clicando aqui](https://github.com/SamuelBFavarin?tab=repositories)
 
-https://github.com/SamuelBFavarin?tab=repositories
 ## Conquistas :trophy:
 
 ### Finalista TuApp 2015 em Valparaíso, Chile
