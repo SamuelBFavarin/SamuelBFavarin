@@ -4,7 +4,7 @@
 
 Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
  
-Embora eu já tenha trabalhado com bastante tecnologia, hoje estou focando em tópicos que visam melhorar a qualidade do código, como aplicação de testes unitários, refatoração de código e padrões de projeto.  
+Hoje estou focando em tópicos que visam melhorar a qualidade do código, como aplicação de testes unitários, refatoração de código e padrões de projeto.  
 
 ## Redes Sociais :raising_hand:
 
