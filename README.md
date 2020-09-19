@@ -35,6 +35,9 @@ Uma ferramenta com o intuíto em educação que fornece uma interface gráfica p
 ### Face Detector ([Link](https://github.com/SamuelBFavarin/faceDetect))
 Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e aplicar filtros divertidos em tempo real.
 
+Veja todos os projetos Open Source que desenvolvi [clicando aqui](https://github.com/SamuelBFavarin?tab=repositories)
+
+https://github.com/SamuelBFavarin?tab=repositories
 ## Conquistas :trophy:
 
 ### Finalista TuApp 2015 em Valparaíso, Chile
