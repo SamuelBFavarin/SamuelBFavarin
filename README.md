@@ -2,15 +2,15 @@
 
 [See in english :us:](https://github.com/SamuelBFavarin/resume/blob/master/README.md)
 
-Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javacript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
+Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
  
 Embora eu já tenha trabalhado com bastante tecnologia, hoje estou focando em tópicos que visam melhorar a qualidade do código, como aplicação de testes unitários, refatoração de código e padrões de projeto.  
 
 ## Redes Sociais :raising_hand:
 
- - Veja meu currículo e se conecta comigo no [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/) para aumentarmos nossa rede de contato.
+ - Veja meu currículo e se conecte comigo no [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/) para aumentarmos nossa rede de contato.
  - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources.
- - Podemos trocar uma ideia via email, pode enviar para favarin.dev@gmail.com
+ - Podemos trocar uma ideia via e-mail, pode enviar para favarin.dev@gmail.com
 
 ## Projetos que trabalhei :wrench:
 
@@ -22,10 +22,10 @@ Pulses é uma ferramenta para monitorar o clima e o engajamento dos colaboradore
 ### Projeto Conecta Suite ([Link](https://app.conectasuite.com/login))
 O Conecta Suite é uma aplicação web com o objetivo de emponderar os administradores GSuite com ferramentas que facilitam o gerenciamento das contas de seus usuários. O projeto foi desenvolvido utilizando Vue.js no Front-end, Python (Flask) no Back-end, e é hospedado no Google Cloud Platform, utilizando tecnologias como App Engine, DataStore, Firebase Host, Cloud Functions e BigQuery.
 
-### Projeto Pulses People Analytics
+### Projeto Pulses People Analytics ([Link](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0))
 Utilizando Técnicas de mineração de dados e inteligência artificial, respondi perguntas e criei modelos para predizer questões como, *"Atributos que mais impactam no engajamento dos colaboradores"*, *"Característica que levam os colaboradres a serem felizes nas organizações"*, *"Fatores que impactam no desligamento dos funcionários"*. Utilizei Python com as bibliotecas, Matplotlib, Scikit-learn, Pandas e Numpy. O projeto gerou uma publicação no Computer on the Beach 2020. 
 
-## Projetos Open Source em detaque :hammer:
+## Projetos Open Source em destaque :hammer:
 ### Presidentsum ([Link](https://presidentsum.com/))
 Presidentsum é uma ferramenta geradora de Lorem Ipsum com frases famosas dos recentes presidentes brasileiros e americanos. Foi desenvolvido puramente com Vue.js. 
 
@@ -33,7 +33,7 @@ Presidentsum é uma ferramenta geradora de Lorem Ipsum com frases famosas dos re
 Uma ferramenta com o intuíto em educação que fornece uma interface gráfica para gerar grafos e aplicar os algoritmos clássicos como o Busca em Profundidade, Coloração e Dijkstra. Projeto desenvolvido com Javascript Vanilla.
 
 ### Face Detector ([Link](https://github.com/SamuelBFavarin/faceDetect))
-Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e aplicar filtros em tempo real.
+Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e aplicar filtros divertidos em tempo real.
 
 ## Conquistas :trophy:
 
@@ -43,7 +43,7 @@ Eu e mais 2 colegas fomos uma das equipes finalistas do Torneio Universitário d
 ### Publicação Resumo Estendido Computer on the Beach 2020
 Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. [Clique aqui para ver a publicação](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0): 
 
-### Ministrante do curso Introdução ao Python e do curso Criando aplicações web com Flask
+### Ministrante do curso "Introdução ao Python" e do curso "Criando aplicações web com Flask"
 Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
 
 ### Ministrante das Conecta Talks
