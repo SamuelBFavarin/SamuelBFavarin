@@ -1,5 +1,10 @@
 # Oi, eu sou o Samuel e esse é meu Portifólio! :books:
+
+[See in english :us:](http://www.google.com)
+
 Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javacript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
+ 
+Embora eu já tenha trabalhado com bastante tecnologia, hoje estou focando em tópicos que visam melhorar a qualidade do código, como aplicação de testes unitários, refatoração de código e padrões de projeto.  
 
 ## Redes Sociais :raising_hand:
 
@@ -18,7 +23,7 @@ Pulses é uma ferramenta para monitorar o clima e o engajamento dos colaboradore
 O Conecta Suite é uma aplicação web com o objetivo de emponderar os administradores GSuite com ferramentas que facilitam o gerenciamento das contas de seus usuários. O projeto foi desenvolvido utilizando Vue.js no Front-end, Python (Flask) no Back-end, e é hospedado no Google Cloud Platform, utilizando tecnologias como App Engine, DataStore, Firebase Host, Cloud Functions e BigQuery.
 
 ### Projeto Pulses People Analytics
-Utilizando Técnicas de mineração de dados e inteligência artificial, respondi perguntas e criei modelos para predizer questões como, *"Atributos que mais impactam no engajamento dos colaboradores"*, *"Característica que levam os colaboradres a serem felizes nas organizações"*, *"Fatores que impactam no desligamento dos funcionários"*. Utilizei Python com as bibliotecas, Matplotlib, Sckikitleaning, Pandas e Numpy. O projeto gerou uma publicação no Computer on the Beach 2020. 
+Utilizando Técnicas de mineração de dados e inteligência artificial, respondi perguntas e criei modelos para predizer questões como, *"Atributos que mais impactam no engajamento dos colaboradores"*, *"Característica que levam os colaboradres a serem felizes nas organizações"*, *"Fatores que impactam no desligamento dos funcionários"*. Utilizei Python com as bibliotecas, Matplotlib, Scikit-learn, Pandas e Numpy. O projeto gerou uma publicação no Computer on the Beach 2020. 
 
 ## Projetos Open Source em detaque :hammer:
 ### Presidentsum ([Link](https://presidentsum.com/))
@@ -36,7 +41,7 @@ Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e a
 Eu e mais 2 colegas fomos uma das equipes finalistas do Torneio Universitário de Apps. Nossa proposta foi o desenvolvimento de um MVP de um Aplicativo Android para auxiliar os turistas a encontrarem melhores pontos turísticos, hoteis, restaurantes e eventos. 
 
 ### Publicação Resumo Estendido Computer on the Beach 2020
-Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. A apresentação está prevista para Setembro de 2020.
+Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. [Clique aqui para ver a publicação](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0): 
 
 ### Ministrante do curso Introdução ao Python e do curso Criando aplicações web com Flask
 Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
@@ -50,5 +55,6 @@ Ministrei duas talks internas da Conecta Nuvem, a primeira foi "inteligência ar
  - Arquitetura Limpa escrito por Robert Cecil Martin;
  - Aprendendo Padrões de Projeto em Python escrito por Chetan Giridhar;
  - Problemas Clássicos de Ciência da Computação com Python escrito por David Koper;
- - Data Science do Zero escrito por Joel Grus.
+ - Data Science do Zero escrito por Joel Grus;
+ - Refatoração: Aperfeiçoando o Design de Códigos Existentes, escrito por Martin Fowler. 
 
