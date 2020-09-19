@@ -1,6 +1,6 @@
 # Oi, eu sou o Samuel e esse é meu Portifólio! :books:
 
-[See in english :us:](http://www.google.com)
+[See in english :us:](https://github.com/SamuelBFavarin/resume/blob/master/README.md)
 
 Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javacript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
  
