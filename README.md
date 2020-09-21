@@ -43,7 +43,7 @@ Veja todos os projetos Open Source que desenvolvi [clicando aqui](https://github
 Eu e mais 2 colegas fomos uma das equipes finalistas do Torneio Universitário de Apps. Nossa proposta foi o desenvolvimento de um MVP de um Aplicativo Android para auxiliar os turistas a encontrarem melhores pontos turísticos, hoteis, restaurantes e eventos. 
 
 ### Publicação Resumo Estendido Computer on the Beach 2020
-Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. [Clique aqui para ver a publicação](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0): 
+Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. [Clique aqui para ver a publicação](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0). 
 
 ### Ministrante do curso "Introdução ao Python" e do curso "Criando aplicações web com Flask"
 Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
