@@ -51,6 +51,10 @@ Cursos ministrados para alunos de Ciência da Computação, Sistemas para Intern
 ### Ministrante das Conecta Talks
 Ministrei duas talks internas da Conecta Nuvem, a primeira foi "inteligência artificial e suas aplicações" e a segunda "uma introdução à lógica de programação".
 
+### Hacktoberfest 2020
+Pela primeira vez participei do evento hacktober fest, sendo que minha principal contribuição foi a criação de um repositório, junto com meus amigos para o compartilhamento de exercícios de lógica de programação em Python.
+
+
 ## Livros que recomendo :book:
 
  - Código Limpo escrito por Robert Cecil Martin;
