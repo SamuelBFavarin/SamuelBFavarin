@@ -26,6 +26,10 @@ O Conecta Suite é uma aplicação web com o objetivo de emponderar os administr
 Utilizando Técnicas de mineração de dados e inteligência artificial, respondi perguntas e criei modelos para predizer questões como, *"Atributos que mais impactam no engajamento dos colaboradores"*, *"Característica que levam os colaboradres a serem felizes nas organizações"*, *"Fatores que impactam no desligamento dos funcionários"*. Utilizei Python com as bibliotecas, Matplotlib, Scikit-learn, Pandas e Numpy. O projeto gerou uma publicação no Computer on the Beach 2020. 
 
 ## Projetos Open Source em destaque :hammer:
+
+### The News Feed ([Link](https://github.com/SamuelBFavarin/The-News-Feed))
+The News Feed é um site de notícias desenvolvido com React e Flask, que a cada hora consome notícias reais de outras plataformas, e insere no feed de notícias. Todo o sistema está hospedado utilizando as tecnologias Google Cloud Platform e Google Firebase.
+
 ### Presidentsum ([Link](https://presidentsum.com/))
 Presidentsum é uma ferramenta geradora de Lorem Ipsum com frases famosas dos recentes presidentes brasileiros e americanos. Foi desenvolvido puramente com Vue.js. 
 
