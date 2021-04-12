@@ -2,9 +2,9 @@
 
 [See this content in english :us:](https://github.com/SamuelBFavarin/resume/blob/master/README.md) | [See my english resume :page_facing_up:](https://docs.google.com/document/d/1Sk5FmRVJ_zdNIYH7NbtLa3vyvaOFEeQ6s2eA7tVut80/edit?usp=sharing) | [Veja meu currículo em português :bookmark_tabs:](https://docs.google.com/document/d/1_d_WpwpC2FpeEY4PP2yFzwk16XhciAVThT2rEDW4xKs/edit?usp=sharing) | [Me chame no WhatsApp :telephone_receiver:](https://api.whatsapp.com/send?phone=5548999664100)
 
-Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Engenheiro de Software na Conecta Nuvem. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
+Me chamo Samuel Favarin, sou Bacharel em Ciência da Computação e atuamente trabalho como Desenvolvedor de Software na Dextra. Comecei a programar quando tinha 15 anos,e percorri uma longa jornada pelas tecnologias envolvidas no desenvolvimento desktop, web e mobile. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
  
-Hoje estou focando em tópicos que visam melhorar a qualidade do código, como aplicação de testes unitários, refatoração de código e padrões de projeto.  
+Hoje meu trabalho e meus estudos estão focados em tecnologias Big Data, como Hadoop, Sypark, HBase e Kafka.  
 
 ## Redes Sociais :raising_hand:
 
