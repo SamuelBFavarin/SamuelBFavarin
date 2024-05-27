@@ -1,10 +1,9 @@
-# Hi guys 🤙
-My name is Samuel Favarin and this is my GitHub profile 🌱
+# Hi there 🤙
 
+I'm Samuel Favarin, but you can call me Sam 🙂
+I'm from Brazil, but currently living in the Netherlands.
 
-[![@samuelfavarin's Holopin board](https://holopin.io/api/user/board?user=samuelfavarin)](https://holopin.io/@samuelfavarin)
+I have worked for companies and projects in Latin America, North America, and currently in Europe. 
+I recently started contributing to the Open Source community, including projects like @fastapi and @dbt-core.
 
-<div>
-<a href = "mailto:favarin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuelbratifavarin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/samuelbratifavarin/) or [X (formerly Twitter)](https://x.com/SamuelBFavarin).
